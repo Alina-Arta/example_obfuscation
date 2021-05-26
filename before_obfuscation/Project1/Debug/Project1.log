@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Мой pc\source\repos\after_obfuscation\Project1\Source.cpp(207,6): warning C4805: ==: небезопасное смешение типа "double" и типа "bool" в операции
+  Project1.vcxproj -> C:\Users\Мой pc\source\repos\after_obfuscation\Debug\Project1.exe
